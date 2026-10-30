@@ -16,3 +16,11 @@ You will see two types of images here, 32bit and 64bit. If your Desktop Operatin
 We will import the pre-installed Kali Linux VM machine just downloaded, into the VirtualBox environment.
 
 After the import is done, the Kali Linux VM is ready for use. Click the green “Start” button to boot virtual machine.
+
+<img width="1624" height="1403" alt="image" src="https://github.com/user-attachments/assets/f3be8278-3b9d-4ad3-802f-087820c4881a" />
+
+Once the Importer is finished, boot up the virtual box, it may take awhile to start up, once done, enter kali as both username and password.
+
+
+
+
