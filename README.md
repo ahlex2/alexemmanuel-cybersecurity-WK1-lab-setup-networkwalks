@@ -1,5 +1,5 @@
 # alexemmanuel-cybersecurity-WK1-lab-setup-networkwalks
-this is my first project on GitHub and I am setting up my lab environment 
+This is my first project on GitHub and I am setting up my lab environment 
 
 I prefer to use virtual box because it's popular in the open source world. you can use it both on Windows and Linux PC environments. 
 
@@ -21,6 +21,7 @@ After the import is done, the Kali Linux VM is ready for use. Click the green â€
 
 Once the Importer is finished, boot up the virtual box, it may take awhile to start up, once done, enter kali as both username and password.
 
+<img width="1266" height="754" alt="image" src="https://github.com/user-attachments/assets/0f57b2b2-d81c-4b75-987f-5d1c21976761" />
 
-
+We have successfully set up our lab environment
 
